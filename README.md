@@ -1,4 +1,4 @@
-# Signal_Processing
+# Signal Processing
 Let's learn about signal processing from scratch
 
 ## Courses and Books
