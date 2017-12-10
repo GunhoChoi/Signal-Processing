@@ -8,3 +8,8 @@ Let's learn about signal processing from scratch
 ## Code Tutorials
 
 - Numerical Tours of Data Science (http://www.numerical-tours.com/)
+
+## Fourier Transform 
+
+- Khan Academy (https://youtu.be/UKHBWzoOKsY)
+- Fourier Transform, Fourier Series, and frequency spectrum (https://youtu.be/r18Gi8lSkfM)
